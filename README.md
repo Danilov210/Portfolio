@@ -1,6 +1,6 @@
 <h2 align="center">
   Alexander Danilov Portfolio - v1.0<br/>
-  <a href="https://[your-portfolio-link.com](https://alexander-danilov.vercel.app)" target="_blank">alexdanilov.dev</a>
+  <a href="https://alexander-danilov.vercel.app" target="_blank">AlexanderDanilov.dev</a>
 </h2>
 
 <div align="center">
